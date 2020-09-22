@@ -5,4 +5,5 @@ $( document ).ready( function(){
       $( "body" ).css( 'background-color', '#00F' );
     }, 100 );
   }, 200);
+   console.log('Toda listo');
 });
